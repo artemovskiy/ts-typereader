@@ -1,0 +1,11 @@
+{
+  "name": "typereader",
+  "version": "0.0.1",
+  "description": "Runtime type system for Typescript base on decorator",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "GIt",
+    "url": "https://github.com/xydens/ts-typereader"
+  }
+}
