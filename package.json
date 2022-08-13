@@ -1,6 +1,6 @@
 {
   "name": "typereader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Runtime type system for Typescript base on decorator",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
