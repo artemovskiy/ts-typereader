@@ -4,7 +4,7 @@ export class ClassMetadata<T extends AnyInstance> {
   private static readonly CLASS_PROPERTIES = 'jsonapi/object/properties';
 
   constructor(
-    private readonly prototype: unknown,
+    protected readonly prototype: unknown,
   ) {
   }
 
